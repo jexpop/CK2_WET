@@ -1,4 +1,4 @@
-Basado en mods como:
-Umbra Spherae
-Umbra Spherae-Reborn
-Umbra Spherae-Reborn - Americas
+#Basado en mods como:</br>
+Umbra Spherae</br>
+Umbra Spherae-Reborn</br>
+Umbra Spherae-Reborn - Americas</br>
