@@ -1,0 +1,415 @@
+1010000 = {
+	name="Titus Avidius Quietus" # Época de Trajano - Cónsul en la provincia de Britannia (97-100)
+	religion="pagan"
+	culture="roman"
+	42.1.1={
+		birth="42.1.1"
+	}
+	107.1.1={
+		death="107.1.1"
+	}
+}
+
+1010001 = {
+	name="Lucius Neratius Marcellus" # Época de Trajano - Cónsul en la provincia de Britannia (101-104)
+	religion="pagan"
+	culture="roman"
+	52.1.1={
+		birth="52.1.1"
+	}
+	117.1.1={
+		death="117.1.1"
+	}
+}
+
+1010002 = {
+	name="Quintus Julius Balbus" # Época de Trajano - Cónsul en la provincia de Britannia (105-114)
+	religion="pagan"
+	culture="roman"
+	54.1.1={
+		birth="54.1.1"
+	}
+	120.1.1={
+		death="120.1.1"
+	}
+}
+
+1010003 = {
+	name="Quintus Julius Balbus" # Época de Trajano - Cónsul en la provincia de Britannia (115-117)
+	religion="pagan"
+	culture="roman"
+	68.1.1={
+		birth="68.1.1"
+	}
+	131.1.1={
+		death="131.1.1"
+	}
+}
+
+1010004 = {
+	name="Quintus Pompeius Falco" # Época de Adriano - Cónsul en la provincia de Britannia (118-121)
+	religion="pagan"
+	culture="roman"
+	66.1.1={
+		birth="66.1.1"
+	}
+	150.1.1={
+		death="150.1.1"
+	}
+}
+
+1010005 = {
+	name="Aulus Platorius Nepos" # Época de Adriano - Cónsul en la provincia de Britannia (122-124)
+	religion="pagan"
+	culture="roman"
+	68.1.1={
+		birth="68.1.1"
+	}
+	149.1.1={
+		death="149.1.1"
+	}
+}
+
+1010006 = {
+	name="Trebius Germanus" # Época de Adriano - Cónsul en la provincia de Britannia (125-130)
+	religion="pagan"
+	culture="roman"
+	70.1.1={
+		birth="70.1.1"
+	}
+	140.1.1={
+		death="140.1.1"
+	}
+}
+
+1010007 = {
+	name="Sextus Julius Severus" # Época de Adriano - Cónsul en la provincia de Britannia (131-132)
+	religion="pagan"
+	culture="roman"
+	75.1.1={
+		birth="75.1.1"
+	}
+	140.1.1={
+		death="140.1.1"
+	}
+}
+
+1010008 = {
+	name="P. Mummius Sisenna" # Época de Adriano - Cónsul en la provincia de Britannia (133-137)
+	religion="pagan"
+	culture="roman"
+	76.1.1={
+		birth="76.1.1"
+	}
+	145.1.1={
+		death="145.1.1"
+	}
+}
+
+1010009 = {
+	name="Quintus Lollius Urbicus" # Época de Antonio - Cónsul en la provincia de Britannia (138-144)
+									# Gobernador de Germania Inferior (135-141 ??)
+	religion="pagan"
+	culture="roman"
+	80.1.1={
+		birth="80.1.1"
+	}
+	150.1.1={
+		death="150.1.1"
+	}
+}
+
+1010010 = {
+	name="Gneus Papirius Aelianus Aemilius Tuscillus"
+	# Época de Antonio - Cónsul en la provincia de Britannia (145-147) - Se amplia a 153 ya que el siguiente es desconocido
+	religion="pagan"
+	culture="roman"
+	100.1.1={
+		birth="100.1.1"
+	}
+	155.1.1={
+		death="155.1.1"
+	}
+}
+
+1010011 = {
+	name="Gnaeus Julius Verus" # Época de Antonio - Gobernador en la provincia de Britannia (154-157)
+								# Gobernador en Germania Inferior (152-158)
+	religion="pagan"
+	culture="roman"
+	112.1.1={
+		birth="112.1.1"
+	}
+	179.1.1={
+		death="179.1.1"
+	}
+}
+
+1010012 = {
+	name="Longinus" # Época de Antonio - Cónsul en la provincia de Britannia (159-160)
+	religion="pagan"
+	culture="roman"
+	112.1.1={
+		birth="112.1.1"
+	}
+	180.1.1={
+		death="180.1.1"
+	}
+}
+
+1010013 = {
+	name="Marcus Statius Priscus" # Época de Antonio - Cónsul en la provincia de Britannia (161-162)
+	religion="pagan"
+	culture="roman"
+	112.1.1={
+		birth="112.1.1"
+	}
+	180.1.1={
+		death="180.1.1"
+	}
+}
+
+1010014 = {
+	name="Sextus Calpurnius Agricola" # Época de Antonio - Cónsul en la provincia de Britannia (163-166)
+	religion="pagan"
+	culture="roman"
+	120.1.1={
+		birth="120.1.1"
+	}
+	169.1.1={
+		death="169.1.1"
+	}
+}
+
+1010015 = {
+	name="Quintus Antistius Adventus" # Época de Antonio - Gobernador de Britannia (167-177)
+										# Gobernador de Germania Inferior (170-179)
+	religion="pagan"
+	culture="roman"
+	120.1.1={
+		birth="120.1.1"
+	}
+	190.1.1={
+		death="190.1.1"
+	}
+}
+
+1010016 = {
+	name="Caerellius Priscus" # Época de Antonio - Cónsul en la provincia de Britannia (178)
+	religion="pagan"
+	culture="roman"
+	130.1.1={
+		birth="130.1.1"
+	}
+	190.1.1={
+		death="190.1.1"
+	}
+}
+
+1010017 = {
+	name="Ulpius Marcellus" # Época de Antonio - Cónsul en la provincia de Britannia (179-184)
+	religion="pagan"
+	culture="roman"
+	130.1.1={
+		birth="130.1.1"
+	}
+	190.1.1={
+		death="190.1.1"
+	}
+}
+
+## 145273 - Publius Helvius Pertinax - Emperador pero también Tribuno Militar en (185-187)
+## ante la duda se expande a 190
+
+1010018 = {
+	name="Clodio Albino" # Época de Antonio - Cónsul en la provincia de Britannia (191-196)
+	religion="pagan"
+	culture="roman"
+	147.11.25={
+		birth="147.11.25"
+	}
+	197.2.19={
+		death="197.2.19"
+	}
+}
+
+1010019 = {
+	name="Virius Lupus" # Época de Severo - Gobernador de Britannia (197-201)
+						# Gobernador de Germania Inferior (193-197)
+	religion="pagan"
+	culture="roman"
+	150.1.1={
+		birth="150.1.1"
+	}
+	202.1.1={
+		death="202.1.1"
+	}
+}
+
+1010020 = {
+	name="Quinto Sosio Seneción" # Gobernador de la Gallia Belgica (Hasta el 99 ???)
+	religion="pagan"
+	culture="roman"
+	60.1.1={
+		birth="60.1.1"
+	}
+	112.1.1={
+		death="112.1.1"
+	}
+}
+
+1010021 = {
+	name="Cayo Sabucio Mayor Ceciliano" # Gobernador de la Gallia Belgica (180-183)
+	religion="pagan"
+	culture="roman"
+	152.1.1={
+		birth="152.1.1"
+	}
+	222.1.1={
+		death="222.1.1"
+	}
+}
+
+1010022 = {
+	name="Lucius Licinius Sura" # Gobernador Germania Inferior (97-98)
+	religion="pagan"
+	culture="roman"
+	48.1.1={
+		birth="48.1.1"
+	}
+	108.1.1={
+		death="108.1.1"
+	}
+}
+
+1010023 = {
+	name="Lucius Neratius Priscus" # Gobernador Germania Inferior (99-100 ??)
+	religion="pagan"
+	culture="roman"
+	53.1.1={
+		birth="53.1.1"
+	}
+	115.1.1={
+		death="115.1.1"
+	}
+}
+
+1010024 = {
+	name="Quintus Acutius Nerva" # Gobernador Germania Inferior (101-116 ??)
+	religion="pagan"
+	culture="roman"
+	55.1.1={
+		birth="55.1.1"
+	}
+	120.1.1={
+		death="120.1.1"
+	}
+}
+
+1010025 = {
+	name="Aulus Platorius Nepos Manilianus Gaius Licinius Pollio" # Gobernador Germania Inferior (117-129 ??)
+	religion="pagan"
+	culture="roman"
+	79.1.1={
+		birth="79.1.1"
+	}
+	140.1.1={
+		death="140.1.1"
+	}
+}
+
+1010026 = {
+	name="Lucius Valerius Propinquus" # Gobernador Germania Inferior (130-134 ??)
+	religion="pagan"
+	culture="roman"
+	89.1.1={
+		birth="89.1.1"
+	}
+	150.1.1={
+		death="150.1.1"
+	}
+}
+
+1010027 = {
+	name="Gaius Julius Severus" # Gobernador Germania Inferior (142-150)
+	religion="pagan"
+	culture="roman"
+	93.1.1={
+		birth="93.1.1"
+	}
+	153.1.1={
+		death="153.1.1"
+	}
+}
+
+1010028 = {
+	name="Lucius Octavius Cornelius Salvius Iulianus Aemillianus" # Gobernador Germania Inferior (151)
+	religion="pagan"
+	culture="roman"
+	93.1.1={
+		birth="93.1.1"
+	}
+	153.1.1={
+		death="153.1.1"
+	}
+}
+
+1010029 = {
+	name="Tiberius Claudius Julianus" # Gobernador Germania Inferior (158-160)
+	religion="pagan"
+	culture="roman"
+	110.1.1={
+		birth="110.1.1"
+	}
+	170.1.1={
+		death="170.1.1"
+	}
+}
+
+1010030 = {
+	name="Tiberius Claudius Julianus" # Gobernador Germania Inferior (161)
+	religion="pagan"
+	culture="roman"
+	110.1.1={
+		birth="110.1.1"
+	}
+	170.1.1={
+		death="170.1.1"
+	}
+}
+
+1010031 = {
+	name="Gaius Septimius Severus" # Gobernador Germania Inferior (162-169 ????)
+	religion="pagan"
+	culture="roman"
+	110.1.1={
+		birth="110.1.1"
+	}
+	170.1.1={
+		death="170.1.1"
+	}
+}
+
+1010032 = {
+	name="Gaius Allius Fuscianus" # Gobernador Germania Inferior (186-192 aprox)
+	religion="pagan"
+	culture="roman"
+	150.1.1={
+		birth="150.1.1"
+	}
+	210.1.1={
+		death="210.1.1"
+	}
+}
+
+1010033 = {
+	name="Gaius Valerius Pudens" # Gobernador Germania Inferior (197-198 aprox)
+	religion="pagan"
+	culture="roman"
+	155.1.1={
+		birth="155.1.1"
+	}
+	210.1.1={
+		death="210.1.1"
+	}
+}

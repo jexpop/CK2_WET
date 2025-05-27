@@ -1,0 +1,45 @@
+98.1.1=
+{
+	holder=1010020 # name="Quinto Sosio Seneción" # Gobernador de la Gallia Belgica (Hasta el 99 ???)
+	liege="e_mod_roman_empire"
+}
+
+100.1.1=
+{
+	holder=145279 # Emperador Marcus Ulpius Traianus
+}
+
+117.8.10=
+{
+	holder=145278 # Emperador Caesar Divi Traiani filius Traianus Hadrianus Augustus
+}
+
+138.7.11=
+{
+	holder=145277 # Emperador Titus Aurelius Fulvus Boionus
+}
+
+161.3.8=
+{
+	holder=145274 # Emperador Marcus Aurelius Antoninus
+}
+
+180.3.17=
+{
+	holder=1010021 # name="Cayo Sabucio Mayor Ceciliano" # Gobernador de la Gallia Belgica (180-183)
+}
+
+184.1.1=
+{
+	holder=145275 # Emperador Lucio Aurelio Cómodo
+}
+
+192.12.31=
+{
+	holder=145273 # Emperador Publio Helvio Pertinax
+}
+
+193.3.28=
+{
+	holder=145272 # Emperador Marcus Didius Severus Julianus
+}

@@ -1,0 +1,43 @@
+1000000 = {
+	name="Cathair Mór" #https://es.wikipedia.org/wiki/Cathair_M%C3%B3r
+	#dynasty=9217
+	#dna="agige0aae00"
+  	#properties="gl0dff0i000"
+	#martial=7
+	#diplomacy=7
+	#intrigue=7
+	#stewardship=11
+	religion="pagan"
+	culture="irish"
+	#father=159331
+	99.1.1={
+		birth="99.1.1"
+	}
+	122.1.1={
+		death="122.1.1"
+	}
+}
+
+1000001 = {
+	name="Conaire Cóem" #https://es.wikipedia.org/wiki/Conaire_C%C3%B3em
+	religion="pagan"
+	culture="irish"
+	137.1.1={
+		birth="137.1.1"
+	}
+	165.1.1={
+		death="165.1.1"
+	}
+}
+
+1000002 = {
+	name="Lugaid mac Con"
+	religion="pagan"
+	culture="irish"
+	175.1.1={
+		birth="175.1.1"
+	}
+	225.1.1={
+		death="225.1.1"
+	}
+}

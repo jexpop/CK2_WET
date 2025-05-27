@@ -1,0 +1,181 @@
+# rgb(31, 83, 116)
+
+k_mod_gaelic_irland = {
+	color = { 33 201 75 }
+	color2= { 7 47 17 }
+
+	title = "k_GAELIC_IRLAND_TITLE"
+	title_prefix="k_GAELIC_TITLE"
+}
+
+k_mod_caledonian = {
+	color = { 44 142 204 }
+	color2= { 31 83 116 }
+
+	title = "k_CELT_CALEDONIAN_TITLE"
+	title_prefix="k_CELT_TITLE"
+}
+
+e_mod_roman_empire = {
+	color={ 219 34 34 }
+	color2={ 91 17 17 }
+
+	#capital = 333 # Rome
+
+	short_name = yes
+
+	title = "Emperor"
+	title_female = "Empress"
+	purple_born_heirs = yes
+
+	culture = roman
+	religion = hellenic_pagan
+
+	allow = {
+		always = no # Only created through special event
+	}
+
+	k_mod_roma_britannia = {
+		color = { 214 56 56 }
+		color2= { 62 32 32 }
+
+		title = "k_ROMA_CONSUL_TITLE"
+		title_prefix="k_ROMA_PROV_TITLE"
+	}
+
+	k_mod_roma_gallia_belgica = {
+		color = { 214 56 56 }
+		color2= { 62 32 32 }
+
+		title = "k_ROMA_CONSUL_TITLE"
+		title_prefix="k_ROMA_PROV_TITLE"
+	}
+
+	k_mod_roma_germania_inferior = {
+		color = { 214 56 56 }
+		color2= { 62 32 32 }
+
+		title = "k_ROMA_CONSUL_TITLE"
+		title_prefix="k_ROMA_PROV_TITLE"
+	}
+
+	k_mod_roma_lugdunensis = {
+		color = { 214 56 56 }
+		color2= { 62 32 32 }
+
+		title = "k_ROMA_CONSUL_TITLE"
+		title_prefix="k_ROMA_PROV_TITLE"
+	}
+
+	k_mod_roma_gallia_aquitania = {
+		color = { 214 56 56 }
+		color2= { 62 32 32 }
+
+		title = "k_ROMA_CONSUL_TITLE"
+		title_prefix="k_ROMA_PROV_TITLE"
+	}
+
+	#d_roma_regio1 = {
+	#		color={ 170 142 70 }
+	#		color2={ 255 255 255 }
+
+	#		capital = 333 # Roma (en realidad Ostia)
+
+	#		c_amalfi = {
+	#			color={ 170 142 70 }
+	#			color2={ 255 255 255 }
+	#		}
+	#		c_capua = {
+	#			color={ 170 142 70 }
+	#			color2={ 255 255 255 }
+	#		}
+	#		c_napoli = {
+	#			color={ 170 142 70 }
+	#			color2={ 255 255 255 }
+	#		}
+	#		c_roma = {
+	#			color={ 170 142 70 }
+	#			color2={ 255 255 255 }
+	#		}
+	#}
+	#d_roma_regio2 = {
+	#		color={ 170 142 70 }
+	#		color2={ 255 255 255 }
+
+	#		capital = 347 # Apulia (teóricamente)
+
+	#		c_apulia = {
+	#			color={ 170 142 70 }
+	#			color2={ 255 255 255 }
+	#		}
+	#		c_bari = {
+	#			color={ 170 142 70 }
+	#			color2={ 255 255 255 }
+	#		}
+	#		c_benevento = {
+	#			color={ 170 142 70 }
+	#			color2={ 255 255 255 }
+	#		}
+	#		c_foggia = {
+	#			color={ 170 142 70 }
+	#			color2={ 255 255 255 }
+	#		}
+	#		c_lecce = {
+	#			color={ 170 142 70 }
+	#			color2={ 255 255 255 }
+	#		}
+	#}
+	#d_roma_regio3 = {
+	#		color={ 170 142 70 }
+	#		color2={ 255 255 255 }
+
+	#		capital = 338 # Reggio
+
+	#		c_consenza = {
+	#			color={ 170 142 70 }
+	#			color2={ 255 255 255 }
+	#		}
+	#		c_salerno = {
+	#			color={ 170 142 70 }
+	#			color2={ 255 255 255 }
+	#		}
+	#		c_reggio = {
+	#			color={ 170 142 70 }
+	#			color2={ 255 255 255 }
+	#		}
+	#		c_taranto = {
+	#			color={ 170 142 70 }
+	#			color2={ 255 255 255 }
+	#		}
+	#}
+	#d_roma_regio4 = {
+	#		color={ 170 142 70 }
+	#		color2={ 255 255 255 }
+
+	#		capital = 929 # Aprutium
+
+	#		c_aprutium = {
+	#			color={ 170 142 70 }
+	#			color2={ 255 255 255 }
+	#		}
+	#		c_spoleto = {
+	#			color={ 170 142 70 }
+	#			color2={ 255 255 255 }
+	#		}
+	#}
+	#d_roma_regio5 = {
+	#		color={ 170 142 70 }
+	#		color2={ 255 255 255 }
+
+	#		capital = 350 # Ancona
+
+	#		c_ancona = {
+	#			color={ 170 142 70 }
+	#			color2={ 255 255 255 }
+	#		}
+	#		c_urbino = {
+	#			color={ 170 142 70 }
+	#			color2={ 255 255 255 }
+	#		}
+	#}
+}
