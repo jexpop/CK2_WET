@@ -1,29 +1,5 @@
-110.1.1=
-{
-	holder=159331 # Fedlimid Rechtmar (110–119) - Anales de los Cuatro Maestros.
-}
-
-119.1.1=
-{
-	holder=1000000 # Cathair Mór (119–122) - Anales de los Cuatro Maestros.
-}
-
-122.1.1=
-{
-	holder=83426 # Conn Cétchathach (122-157) - Anales de los Cuatro Maestros.
-}
-
-157.1.1=
-{
-	holder=1000001 # Conaire Cóem (157-165) - Anales de los Cuatro Maestros.
-}
-
-165.1.1=
-{
-	holder=83427 # Arte mac Cuinn (165-195) - Anales de los Cuatro Maestros.
-}
-
-195.1.1=
-{
-	holder=1000002 # Lugaid mac Con (195-225) - Anales de los Cuatro Maestros.
+98.1.27 = {
+    name = PROV_3_NAME_GAELIC
+    holder = 1000000
+    liege = d_ouenniknioi
 }

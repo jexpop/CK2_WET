@@ -1,0 +1,4 @@
+98.1.27 = {
+	holder=1000000
+	government = tribal_government
+}

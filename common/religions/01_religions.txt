@@ -1,0 +1,32 @@
+celtic_group = {
+	graphical_culture = western_religion
+	playable = yes
+
+    eire_gaelic = {
+        icon = 52
+        heresy_icon = 53
+        color = { 0.4 0.7 0.3 }	
+
+        crusade_name = "great_gathering"
+        scripture_name = "sacred_oaths"
+        priest_title = "druid"
+
+        god_names = {
+            LUGH GOD_LUGH
+            DANU GOD_DANU
+            DAGDA GOD_DAGDA
+            BRIGID GOD_BRIGID
+            CERNUNNOS GOD_CERNUNNOS
+        }
+
+        can_excommunicate = no
+        can_grant_divorce = yes
+        priests_can_marry = yes
+        priests_can_inherit = yes
+        female_temple_holders = yes
+        investiture = no
+        allow_looting = yes
+        religious_clothing_head = 0
+        religious_clothing_priest = 0
+    }
+}

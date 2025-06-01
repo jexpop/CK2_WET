@@ -1,0 +1,24 @@
+# 3 - Tyrconnell
+
+# County Title
+title = c_tyrconnell
+
+# Settlements
+max#_settlements = 3
+b_gartan = tribal
+b_raphoe = temple
+
+# Misc
+culture = irish
+#religion = catholic
+religion = eire_gaelic
+terrain = hills
+
+# History
+98.1.27 = {
+	title = c_tyrconnell
+}
+#1000.1.1 = {
+#	b_gartan = castle
+#	b_donegal = city
+#}

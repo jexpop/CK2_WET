@@ -1,0 +1,19 @@
+# Ireland
+3000000 = {
+	name = "mac Conaill"
+	culture = irish
+	religion = eire_gaelic
+
+	coat_of_arms=
+	{
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 0
+			emblem = 0
+			color = 11
+			color = 4
+		}
+		religion="eire_gaelic"
+	}
+}

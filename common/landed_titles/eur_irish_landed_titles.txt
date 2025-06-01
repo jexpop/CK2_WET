@@ -1,0 +1,26 @@
+d_ouenniknioi = {
+	color = { 47 121 62 }      # Verde musgo (tono sobrio y tradicional)
+    	color2 = { 90 56 35 }      # Marrón tierra (para detalles, recuerda al suelo celta)
+    	title = "D_OUENNIKNIOI_TITLE"
+    	culture = irish
+    	capital = 3 # c_tyrconnell
+	title_prefix = "D_ANCIENT_IRISH_PREFIX"
+
+	title = "Toísech"
+	title_female = "Bantiarna"
+	foa = "A Shoilse"
+
+    c_tyrconnell = {
+        color = { 66 138 62 }  # Verde trébol (vivo, pero natural)
+        color2 = { 112 82 56 } # Marrón piedra (más claro que el del ducado)
+        title = "C_TIR_CHONAILL_TITLE"
+	title_prefix = "C_ANCIENT_IRISH_PREFIX"
+    }
+
+    c_tyrone = {
+        color = { 84 161 75 }  # Verde hierba húmeda (más fresco)
+        color2 = { 141 106 70 }# Beige oscuro/ocre (para detalles cálidos)
+        title = "C_ANCIENT_IRISH_PREFIX"
+	title_prefix = "C_ANCIENT_IRISH_PREFIX"
+    }
+}

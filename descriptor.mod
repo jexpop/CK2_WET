@@ -1,3 +1,5 @@
 name="CK2: World Extended Time"
 path="mod/CK2_WET"
 replace_path="common/bookmarks"
+replace_path="interface/coat_of_arms"
+replace_path="common/landed_titles"
