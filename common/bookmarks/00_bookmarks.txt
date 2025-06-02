@@ -5,24 +5,20 @@ bm_1_CENTURY = {
 
 	era = yes						## Will be shown on Era screen.
 	picture = GFX_pick_era_image_1
-
+	custom_start = yes
 	
-	selectable_character = {
-		id = 6392 # Charlemagne
-		age = 26
-		name = ERA_CHAR_NAME_6392
-		title = k_france
-		title_name = WEST_FRANCIA
+	#selectable_character = {
+	#	id = 1000000
+	#	age = 20
+	#	name = "Dergal"
+	#	title = d_ouenniknioi
+	#	title_name = D_OUENNIKNIOI_TITLE
 		
-		character = {
-			dna = bcedirmbfcy
-			properties = aj00bc00000
-			religion="catholic"
-			culture="old_frankish"
-			government = feudal_government
-			dynasty=25061
-		}
-	}
-
-    custom_start = yes
+	#	character = {
+	#		religion="eire_gaelic"
+	#		culture="irish"
+	#		government = tribal_government
+	#		dynasty=3000000
+	#	}
+	#}
 }

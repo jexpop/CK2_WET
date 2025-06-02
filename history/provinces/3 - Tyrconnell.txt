@@ -1,12 +1,13 @@
 # 3 - Tyrconnell
 
 # County Title
-title = c_tyrconnell
+#title = c_tyrconnell
+title = c_tirchonaill
 
 # Settlements
-max#_settlements = 3
-b_gartan = tribal
-b_raphoe = temple
+max_settlements = 3
+b_gartan_oldirish = tribal
+b_raphoe_oldirish = temple
 
 # Misc
 culture = irish
@@ -16,7 +17,8 @@ terrain = hills
 
 # History
 98.1.27 = {
-	title = c_tyrconnell
+	#title = c_tyrconnell
+	title = c_tirchonaill
 }
 #1000.1.1 = {
 #	b_gartan = castle

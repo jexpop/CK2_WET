@@ -1,13 +1,14 @@
 # 4 - Tyrone
 
 # County Title
-title = c_tyrone
+#title = c_tyrone
+title = c_tireoghain
 
 # Settlements
 max_settlements = 4
-b_aileach = tribal
-#b_coleraine = city
-b_derry = temple
+b_aileach_oldirish = tribal
+b_coleraine_oldirish = tribal
+b_derry_oldirish = temple
 
 #b_dungannon = castle
 #b_omagh = castle
@@ -23,7 +24,8 @@ terrain = hills
 
 # History
 98.1.27 = {
-	title = c_tyrone
+	#title = c_tyrone
+	title = c_tireoghain
 }
 #1000.1.1 = {
 #	b_aileach = castle

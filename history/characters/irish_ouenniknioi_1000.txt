@@ -15,10 +15,10 @@
 	spouse = 1000002
 
 	78.1.1 = { 
-		birth = "78.1.1"
+		birth = yes
     		add_spouse = 1000002 
 	}
-	122.1.1 = { death = "122.1.1" }
+	122.1.1 = { death = yes }
 }
 1000001 = { # Hermano
 	name = "Caelán"
@@ -34,8 +34,8 @@
 	religion = "eire_gaelic"
 	culture = "irish"
 
-	80.1.1 = { birth = "80.1.1" }
-	130.1.1 = { death = "130.1.1" }
+	80.1.1 = { birth = yes }
+	130.1.1 = { death = yes }
 }
 1000002 = { # Esposa de Dergal
 	name = "Étaín"
@@ -45,10 +45,10 @@
 	female = yes
 
 	80.1.1 = { 
-		birth = "80.1.1"
+		birth = yes
     		add_spouse = 1000000 
 	}
-	140.1.1 = { death = "140.1.1" }
+	140.1.1 = { death = yes }
 
 	spouse = 1000000
 }
@@ -61,7 +61,7 @@
 	religion = "eire_gaelic"
 	culture = "irish"
 
-	100.1.1 = { birth = "100.1.1" }
+	100.1.1 = { birth = yes }
 }
 1000004 = { # Madre ficticia
 	name = "Maeloíbh"
@@ -71,10 +71,10 @@
 	female = yes
 	
 	50.1.1 = { 
-		birth = "50.1.1" 
+		birth = yes 
 		add_spouse = 1000005 
 	}
-	120.1.1 = { death = "120.1.1" }
+	120.1.1 = { death = yes }
 }
 
 1000005 = { # Padre ficticio
@@ -89,10 +89,10 @@
 	stewardship = 6
 
 	45.1.1 = { 
-		birth = "45.1.1" 
+		birth = yes 
 		add_spouse = 1000004 
 	}
-	115.1.1 = { death = "115.1.1" }
+	115.1.1 = { death = yes }
 
 	spouse = 1000004
 }

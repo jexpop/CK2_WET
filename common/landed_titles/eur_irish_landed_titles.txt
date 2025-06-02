@@ -10,17 +10,42 @@ d_ouenniknioi = {
 	title_female = "Bantiarna"
 	foa = "A Shoilse"
 
-    c_tyrconnell = {
-        color = { 66 138 62 }  # Verde trébol (vivo, pero natural)
-        color2 = { 112 82 56 } # Marrón piedra (más claro que el del ducado)
-        title = "C_TIR_CHONAILL_TITLE"
-	title_prefix = "C_ANCIENT_IRISH_PREFIX"
-    }
+	#primary = yes
+	#tribe = yes
 
-    c_tyrone = {
-        color = { 84 161 75 }  # Verde hierba húmeda (más fresco)
-        color2 = { 141 106 70 }# Beige oscuro/ocre (para detalles cálidos)
-        title = "C_ANCIENT_IRISH_PREFIX"
-	title_prefix = "C_ANCIENT_IRISH_PREFIX"
-    }
+	# cultura romana cambiar nombre a latinizado -> Vennicnii
+
+	c_tirchonaill= {
+#	c_tyrconnell= {
+		color = { 66 138 62 }  # Verde trébol (vivo, pero natural)
+	        color2 = { 112 82 56 } # Marrón piedra (más claro que el del ducado)
+	        title = "C_TIR_CHONAILL_TITLE"
+		title_prefix = "C_ANCIENT_IRISH_PREFIX"
+
+			b_gartan_oldirish = {
+					irish = "Gartán"
+				}
+			b_raphoe_oldirish = {
+					irish = "Ráth Bhoth"
+				}
+	}
+
+	c_tireoghain = {
+#	c_tyrone = {
+		color = { 84 161 75 }  # Verde hierba húmeda (más fresco)
+		color2 = { 141 106 70 }# Beige oscuro/ocre (para detalles cálidos)
+		title = "C_ANCIENT_IRISH_PREFIX"
+		title_prefix = "C_ANCIENT_IRISH_PREFIX"
+
+			b_aileach_oldirish = {
+					irish = "Ailech"
+				}
+			b_coleraine_oldirish = {
+					irish = "Cúil Rathain"
+				}
+			b_derry_oldirish = {
+					irish = "Daire Coluimb Chille"
+				}
+	}
 }
+
