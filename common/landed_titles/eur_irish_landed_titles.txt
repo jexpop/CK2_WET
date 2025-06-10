@@ -1,51 +1,109 @@
+## Tribes
 d_ouenniknioi = {
-	color = { 47 121 62 }      # Verde musgo (tono sobrio y tradicional)
-    	color2 = { 90 56 35 }      # Marrón tierra (para detalles, recuerda al suelo celta)
-    	title = "D_OUENNIKNIOI_TITLE"
-    	culture = irish
-    	capital = 3 # c_tyrconnell
-	title_prefix = "D_ANCIENT_IRISH_PREFIX"
+	color = { 47 121 62 }      
+	color2 = { 90 56 35 }      
 
+	culture = irish_gaelic
+
+	capital = 3 # Tyrconnell
+	title = "D_OUENNIKNIOI_TITLE"
+	title_prefix = "D_ANCIENT_IRISH_PREFIX"
 	title = "Toísech"
 	title_female = "Bantiarna"
 	foa = "A Shoilse"
 
-	#primary = yes
-	#tribe = yes
+	roman = "Vennicnii"
+}
+d_priteni = {
+	color = { 62 138 80 }      
+	color2 = { 75 48 28 }
 
-	# cultura romana cambiar nombre a latinizado -> Vennicnii
+	culture = irish_gaelic
 
-	c_tirchonaill= {
-#	c_tyrconnell= {
-		color = { 66 138 62 }  # Verde trébol (vivo, pero natural)
-	        color2 = { 112 82 56 } # Marrón piedra (más claro que el del ducado)
-	        title = "C_TIR_CHONAILL_TITLE"
-		title_prefix = "C_ANCIENT_IRISH_PREFIX"
+	capital = 5 # Ulster
+	title = "D_PRITERI_TITLE"
+	title_prefix = "D_ANCIENT_IRISH_PREFIX"
+	title = "Toísech"
+	title_female = "Bantiarna"
+	foa = "A Shoilse"
+}
+# Tribes provinces
+c_airgialla= {
+	color = { 72 145 70 }
+	color2 = { 120 90 60 }
+	title = "C_TIR_CHONAILL_TITLE"
+	title_prefix = "C_ANCIENT_IRISH_PREFIX"
 
-			b_gartan_oldirish = {
-					irish = "Gartán"
-				}
-			b_raphoe_oldirish = {
-					irish = "Ráth Bhoth"
-				}
+		
+
+}
+c_rathruin= {
+	color = { 72 145 70 }
+	color2 = { 120 90 60 }
+	title = "C_TIR_CHONAILL_TITLE"
+	title_prefix = "C_ANCIENT_IRISH_PREFIX"
+
+	b_dromore = {
+		irish = "Druim Mór"
+		irish_gaelic = "Druim Mór na nDéithe"
+	}		
+	b_dunseverick = {
+		irish = "Dún Sobhairce"
+		irish_gaelic = "Dún Sobhairce"
 	}
-
-	c_tireoghain = {
-#	c_tyrone = {
-		color = { 84 161 75 }  # Verde hierba húmeda (más fresco)
-		color2 = { 141 106 70 }# Beige oscuro/ocre (para detalles cálidos)
-		title = "C_ANCIENT_IRISH_PREFIX"
-		title_prefix = "C_ANCIENT_IRISH_PREFIX"
-
-			b_aileach_oldirish = {
-					irish = "Ailech"
-				}
-			b_coleraine_oldirish = {
-					irish = "Cúil Rathain"
-				}
-			b_derry_oldirish = {
-					irish = "Daire Coluimb Chille"
-				}
+	b_downpatrick = {
+		norwegian = Strangfjord
+		swedish = Strangfjord
+		danish = Strangfjord
+		norse = Strangfjorðr
+		irish = "Dún Pádraig"
+		irish_gaelic = "Ráth Celtchair"
+	}
+	b_larne = {
+		irish = "Latharna"
+		irish_gaelic = "Latharna"
+	}
+	b_dunluce = {
+		irish = "Dún Libhse"
+		irish_gaelic = "Dún Libhse"
 	}
 }
+c_tirchonaill= {
+	color = { 66 138 62 }
+	color2 = { 112 82 56 }
+	title = "C_TIR_CHONAILL_TITLE"
+	title_prefix = "C_ANCIENT_IRISH_PREFIX"
+
+	b_gartan = {
+		irish = "Gartán"
+		irish_gaelic = "Gartán"
+	}
+	b_raphoe = {
+		irish = "Ráth Bhoth"
+		irish_gaelic = "Ráth Bhoth"
+	}
+}
+c_tireoghain = {
+	color = { 93 172 84 }   
+	color2 = { 150 115 78 } 
+	title = "C_ANCIENT_IRISH_PREFIX"
+	title_prefix = "C_ANCIENT_IRISH_PREFIX"
+
+	b_aileach = {
+		irish = "Ailech"
+		irish_gaelic = "Ailech"
+	}
+	b_coleraine = {
+		irish = "Cúil Rathain"
+		irish_gaelic = "Cúil Rathain"
+	}
+	b_derry = {
+		irish = "Daire Coluimb Chille"
+		irish_gaelic = "Daire Coluimb Chille"
+	}
+}
+
+
+
+
 

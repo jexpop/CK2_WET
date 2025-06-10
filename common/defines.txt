@@ -1,6 +1,6 @@
-start_date = 98.1.27
-last_start_date = 198.1.27
-end_date = 1453.1.1
+start_date = 9248.4.21 # 753.4.21 BC
+last_start_date = 9301.4.21 # 700.4.21 BC
+end_date = 11453.1.1
 
 character = {
 }

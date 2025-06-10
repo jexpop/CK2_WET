@@ -6,9 +6,9 @@ title = c_tireoghain
 
 # Settlements
 max_settlements = 4
-b_aileach_oldirish = tribal
-b_coleraine_oldirish = tribal
-b_derry_oldirish = temple
+b_aileach = tribal
+b_coleraine = tribal
+b_derry = temple
 
 #b_dungannon = castle
 #b_omagh = castle
@@ -17,13 +17,13 @@ b_derry_oldirish = temple
 #b_dungiven = castle
 
 # Misc
-culture = irish
+culture = irish_gaelic
 #religion = catholic
 religion = eire_gaelic
 terrain = hills
 
 # History
-98.1.27 = {
+9248.4.21 = { # 753.4.21 BC
 	#title = c_tyrone
 	title = c_tireoghain
 }

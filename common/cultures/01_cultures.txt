@@ -1,0 +1,35 @@
+insular_celtic = {
+	graphical_cultures = { celticgfx }
+
+	irish_gaelic = {
+		graphical_cultures = { gaelicgfx }
+		
+		color = { 0.329 0.749 0.322 }
+
+		male_names = {
+		    Áed_Hugh Ailill Ainmere Amalgaid Art Artgal Augaire Báetán Blathmac Bran Brandub Brian Caílte Cathal Cennétig Cerball Cináed Coirpre Colmán Conall Conchobar Congalach Conn Crimthann Dáire Diarmait Domnall Donnchad Dúnchad Dúngal Eógan Fáelán Fergus Fergal Fingen Finn Flann Gabrán Gilla-Brígte Iollan Lóeguire Loingsech Lorcán Lugaid Máel-Brígte Máel-Ciaráin Máel-Íosa Máel-Mórda Máel-Pátraic Máel-Sechlainn Mathgamain Muirchertach Muiredach Niall Óengus Róen Ruaidrí Sechnassach Tadg Tigernán Toirrdelbach Uilliam
+		}
+
+		female_names = {
+		    Áine Aibell Ailbhe Ainé Alastríona Brigid Bébinn Caitilín Caoimhe Ceallach Cobflaith Deirdre Derbáil Dervorgilla Dubhchobhlaigh Eithne Étaín Éabha Fionnuala Fíne Gormlaith Gráinne Lasairfhíona Laoise Lerthan Lóegaire Máiréad Mór Nuala Róis Sadb Scáthach Siobhán Sláine Taileflaith Uaine
+		}
+
+		
+		dukes_called_kings = no
+		
+		from_dynasty_prefix = "O'"
+		male_patronym = "Mac"
+		female_patronym = "Nic"
+		prefix = yes
+
+		modifier = default_culture_modifier  # Mantén el modificador general
+
+		pat_grf_name_chance = 50    # Más alta, ya que los apellidos patronímicos masculinos ("Mac ___") son muy comunes y visibles
+		mat_grf_name_chance = 20    # Moderada, pues los apellidos matrilineales ("Nic ___") también existen pero son menos comunes
+		father_name_chance = 10     # Algo más frecuente, dado que los nombres se basaban mucho en el nombre del padre
+		pat_grm_name_chance = 40    # Alta, para reflejar variaciones gramaticales o sufijos en apellidos masculinos (e.g., "Mac", "Ó")
+		mat_grm_name_chance = 20    # Moderada para las variaciones en apellidos femeninos
+		mother_name_chance = 5      # Poco frecuente, nombres de la madre influyendo en la denominación son raros
+
+	}
+}

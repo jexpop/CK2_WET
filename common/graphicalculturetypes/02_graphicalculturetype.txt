@@ -1,0 +1,3 @@
+gaelicgfx = {
+    skin_tone = 0  # 0: europeo, 1: mediterráneo, 2: árabe/indio, 3: africano
+}

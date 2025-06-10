@@ -1,6 +1,12 @@
 celtic_group = {
-	graphical_culture = western_religion
-	playable = yes
+	has_coa_on_barony_only = yes # genera un CoA aleatorio para las baronías, pero usa gfx/flags/ para niveles superiores.
+	graphical_culture = gaelicgfx
+	playable = yes # Indica que es un grupo de religión jugable
+
+	ai_convert_same_group = 0 # Nunca intenta convertir
+	ai_convert_other_group = 0 # Nunca intenta convertir
+
+	interface_skin = { pagan_interface }
 
     eire_gaelic = {
         icon = 52
@@ -27,6 +33,6 @@ celtic_group = {
         investiture = no
         allow_looting = yes
         religious_clothing_head = 0
-        religious_clothing_priest = 0
+        religious_clothing_priest = 12
     }
 }

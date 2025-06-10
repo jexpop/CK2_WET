@@ -1,7 +1,7 @@
 bm_1_CENTURY = {
 	name = "BM_1_CENTURY"
 	desc = "BM_1_CENTURY_INFO"
-	date = 98.1.27
+	date = 9248.4.21 # 753.4.21 BC
 
 	era = yes						## Will be shown on Era screen.
 	picture = GFX_pick_era_image_1

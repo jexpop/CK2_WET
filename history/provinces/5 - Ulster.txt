@@ -1,0 +1,31 @@
+# 5 - Ulster
+
+# County Title
+#title = c_ulster
+title = c_rathruin
+
+# Settlements
+max_settlements = 4
+b_downpatrick = tribal
+#b_carrickfergus = city
+#b_connor = temple
+
+b_dromore = temple
+b_dunseverick = castle
+#b_bangor = castle
+b_dunluce = castle
+b_larne = tribal
+
+# Misc
+culture = irish_gaelic
+religion = eire_gaelic
+terrain = hills
+
+# History
+9248.4.21 = { # 753.4.21 BC
+	title = c_rathruin
+}
+#1000.1.1 = {
+#	b_downpatrick = castle
+#	b_carrickfergus = city
+#}

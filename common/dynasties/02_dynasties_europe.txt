@@ -1,7 +1,25 @@
 # Ireland
 3000000 = {
-	name = "mac Conaill"
-	culture = irish
+	name = "O'Conaill"
+	culture = irish_gaelic
+	religion = eire_gaelic
+
+	coat_of_arms=
+	{
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 1
+			emblem = 0
+			color = 6
+			color = 4
+		}
+		religion="eire_gaelic"
+	}
+}
+3000001 = {
+	name = "O'Ceallaigh"
+	culture = irish_gaelic
 	religion = eire_gaelic
 
 	coat_of_arms=
@@ -11,8 +29,44 @@
 			texture = 4
 			texture_internal = 0
 			emblem = 0
-			color = 11
-			color = 4
+			color = 2
+			color = 1
+		}
+		religion="eire_gaelic"
+	}
+}
+3000002 = {
+	name = "O'Murchadha"
+	culture = irish_gaelic
+	religion = eire_gaelic
+
+	coat_of_arms=
+	{
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 0
+			emblem = 0
+			color = 12
+			color = 9
+		}
+		religion="eire_gaelic"
+	}
+}
+3000003 = {
+	name = "O'Baoighill"
+	culture = irish_gaelic
+	religion = eire_gaelic
+
+	coat_of_arms=
+	{
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 0
+			emblem = 0
+			color = 0
+			color = 13
 		}
 		religion="eire_gaelic"
 	}

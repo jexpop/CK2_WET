@@ -1,0 +1,4 @@
+{
+  // Forzar codificación Windows-1252 para archivos CSV de localización de Paradox
+  "files.encoding": "windows1252"
+}

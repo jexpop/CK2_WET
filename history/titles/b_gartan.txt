@@ -1,8 +1,6 @@
 9248.4.21 = { # 753.4.21 BC
-    name = PROV_3_NAME_GAELIC
     holder = 1000000
-    liege = d_ouenniknioi
-    de_jure_liege = d_ouenniknioi
+    liege = c_tirchonaill
 }
 9272.1.2 = { # 729.1.2 BC
 	holder=1000003

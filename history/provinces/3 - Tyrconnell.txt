@@ -6,17 +6,17 @@ title = c_tirchonaill
 
 # Settlements
 max_settlements = 3
-b_gartan_oldirish = tribal
-b_raphoe_oldirish = temple
+b_gartan = tribal
+b_raphoe = temple
 
 # Misc
-culture = irish
+culture = irish_gaelic
 #religion = catholic
 religion = eire_gaelic
 terrain = hills
-
+ 
 # History
-98.1.27 = {
+9248.4.21 = { # 753.4.21 BC
 	#title = c_tyrconnell
 	title = c_tirchonaill
 }
