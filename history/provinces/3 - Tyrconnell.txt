@@ -5,8 +5,10 @@
 title = c_tirchonaill
 
 # Settlements
-max_settlements = 3
+max_settlements = 5
 b_gartan = tribal
+#b_kilmacrenan = tribal
+b_ballyshannon = temple
 b_raphoe = temple
 
 # Misc
@@ -20,6 +22,12 @@ terrain = hills
 	#title = c_tyrconnell
 	title = c_tirchonaill
 }
+
+# en titles
+#430.1.1={
+#	holder = 7255 #Niall Noigiallach
+#}
+
 #1000.1.1 = {
 #	b_gartan = castle
 #	b_donegal = city

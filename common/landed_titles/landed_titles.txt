@@ -40527,32 +40527,20 @@ e_britannia = {
 	
 				irish = Airgíalla
 				
-				b_clones = {
-					irish = "Cluain Eois"
-				}
-				b_armagh = {
-					irish = "Ard Mhacha"
-				}
-				b_dundalk = {
+				b_dundalk = { # siglo I a. C. ?
 					norwegian = Kerlingfjord
 					swedish = Kerlingfjord
 					danish = Kerlingfjord
 					norse = Kerlingfjorðr
 					irish = "Dún Dealgan"
 				}
-				b_clogher = {
-					irish = "Clochar"
-				}
-				b_drogheda = {
+				b_drogheda = { # época normanda
 					irish = "Droichead Átha"
 				}
-				b_monaghan = {
+				b_monaghan = { # 216 a. C ?
 					irish = "Muineachán"
 				}
-				b_olouth = {
-					irish = "Lúghbhaidh"
-				}
-				b_ardee = {
+				b_ardee = { # 841 ?
 					irish = "Baile Átha Fhirdhia"
 				}
 			}
@@ -40562,19 +40550,16 @@ e_britannia = {
 				
 				irish = "Tír Eoghain"
 	
-				b_dungannon = {
+				b_dungannon = { # O'Neill
 					irish = "Dún Geanainn"
 				}
-				b_maghera = {
+				b_maghera = { # siglo VI
 					irish = "Machaire Rátha"
 				}
-				b_omagh = {
+				b_omagh = { # 792
 					irish = "An Óghmaigh"
 				}
-				b_tullyhogue = {
-					irish = "Tulaigh Óg"
-				}
-				b_dungiven = {
+				b_dungiven = { # 700 d. C
 					irish = "Dún Geimhin"
 				}
 			}
@@ -40584,22 +40569,16 @@ e_britannia = {
 				
 				irish = "Tír Chonaill"
 			
-				b_moville = {
+				b_moville = { # 540
 					irish = "Magh Bhile"
 				}
-				b_fahan = {
+				b_fahan = { # siglo VI
 					irish = "Fathain"
 				}
-				b_donegal = {
+				b_donegal = { # O'Donnell
 					irish = "Dún na nGall"
 				}
-				b_ballyshannon = {
-					irish = "Béal Átha Seanaidh"
-				}
-				b_kilmacrenan = {
-					irish = "Cill Mhic nEanain"
-				}
-				b_ballymacswiney = {
+				b_ballymacswiney = { # ??
 					irish = "Baile Mhic Suibhne"
 				}
 			}

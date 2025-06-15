@@ -1,6 +1,6 @@
 9248.4.21 = { # 753.4.21 BC
 	holder=1000000
-	government = tribal_government
+	government = tribal_government_irish_gaelic
 }
 9272.1.2 = { # 729.1.2 BC
 	holder=1000003

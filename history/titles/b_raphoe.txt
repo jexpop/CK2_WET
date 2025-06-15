@@ -1,5 +1,5 @@
 9248.4.21 = { # 753.4.21 BC
-    holder = 1000005
+    holder = 1000009
     liege = c_tirchonaill
 }
 9625.1.2 = { # 736.1.2 BC

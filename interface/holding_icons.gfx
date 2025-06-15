@@ -1,0 +1,38 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_fort_gaelicgfx"
+		texturefile = "gfx//interface//holdings//gaelic//fort_gaelic.dds"
+		noOfFrames = 3
+		clicksound = generic_click_02
+	}	
+	spriteType = {
+	name = "GFX_settlement_fort_gaelicgfx"
+	texturefile = "gfx//interface//holdings//gaelic//placeholder_fort_gaelic.dds"
+	noOfFrames = 1
+	norefcount = yes
+	}
+	spriteType = {
+	name = "GFX_settlement_temple_gaelicgfx_gaelicgfx"
+	texturefile = "gfx//interface//holdings//gaelic//placeholder_temple_gaelic.dds"
+	noOfFrames = 1
+	norefcount = yes
+	}
+	spriteType = {
+	name = "GFX_settlement_temple_gaelicgfx_gaelicgfx_looted"
+	texturefile = "gfx//interface//holdings//gaelic//placeholder_temple_gaelic_looted.dds"
+	noOfFrames = 1
+	norefcount = yes
+	}
+	spriteType = {
+	name = "GFX_settlement_tribal_gaelicgfx"
+	texturefile = "gfx//interface//holdings//gaelic//placeholder_tribal_gaelic.dds"
+	noOfFrames = 1
+	norefcount = yes
+	}
+	spriteType = {
+	name = "GFX_settlement_tribal_gaelicgfx_looted"
+	texturefile = "gfx//interface//holdings//gaelic//placeholder_tribal_gaelic_looted.dds"
+	noOfFrames = 1
+	norefcount = yes
+	}
+}

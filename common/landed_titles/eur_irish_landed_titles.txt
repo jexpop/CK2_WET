@@ -6,11 +6,7 @@ d_ouenniknioi = {
 	culture = irish_gaelic
 
 	capital = 3 # Tyrconnell
-	title = "D_OUENNIKNIOI_TITLE"
-	title_prefix = "D_ANCIENT_IRISH_PREFIX"
-	title = "Toísech"
-	title_female = "Bantiarna"
-	foa = "A Shoilse"
+	#foa = "A Shoilse"
 
 	roman = "Vennicnii"
 }
@@ -22,26 +18,36 @@ d_priteni = {
 
 	capital = 5 # Ulster
 	title = "D_PRITERI_TITLE"
-	title_prefix = "D_ANCIENT_IRISH_PREFIX"
-	title = "Toísech"
-	title_female = "Bantiarna"
-	foa = "A Shoilse"
+	#foa = "A Shoilse"
 }
 # Tribes provinces
 c_airgialla= {
 	color = { 72 145 70 }
 	color2 = { 120 90 60 }
-	title = "C_TIR_CHONAILL_TITLE"
-	title_prefix = "C_ANCIENT_IRISH_PREFIX"
+	title = "C_AIRGIALLA_TITLE"
 
-		
+	b_clones = {
+		irish = "Cluain Eois"
+		irish_gaelic = "Cluain Eois"
+	}
+	b_armagh = {
+		irish = "Ard Mhacha"
+		irish_gaelic = "Ard Mhacha"
+	}
+	b_clogher = {
+		irish = "Clochar"
+		irish_gaelic = "Clochar"
+	}
+	b_olouth = {
+		irish = "Lúghbhaidh"
+		irish_gaelic = "Lúghbhaidh"
+	}
 
 }
 c_rathruin= {
 	color = { 72 145 70 }
 	color2 = { 120 90 60 }
-	title = "C_TIR_CHONAILL_TITLE"
-	title_prefix = "C_ANCIENT_IRISH_PREFIX"
+	title = "C_RATHRUIN_TITLE"
 
 	b_dromore = {
 		irish = "Druim Mór"
@@ -71,12 +77,18 @@ c_rathruin= {
 c_tirchonaill= {
 	color = { 66 138 62 }
 	color2 = { 112 82 56 }
-	title = "C_TIR_CHONAILL_TITLE"
-	title_prefix = "C_ANCIENT_IRISH_PREFIX"
 
 	b_gartan = {
 		irish = "Gartán"
 		irish_gaelic = "Gartán"
+	}
+	b_kilmacrenan = {
+		irish = "Cill Mhic nEanain"
+		irish_gaelic = "Cill Mhic nEanain"
+	}
+	b_ballyshannon = {
+		irish = "Béal Átha Seanaidh"
+		irish_gaelic = "Béal Átha Seanaidh"
 	}
 	b_raphoe = {
 		irish = "Ráth Bhoth"
@@ -86,20 +98,22 @@ c_tirchonaill= {
 c_tireoghain = {
 	color = { 93 172 84 }   
 	color2 = { 150 115 78 } 
-	title = "C_ANCIENT_IRISH_PREFIX"
-	title_prefix = "C_ANCIENT_IRISH_PREFIX"
 
 	b_aileach = {
 		irish = "Ailech"
 		irish_gaelic = "Ailech"
 	}
-	b_coleraine = {
-		irish = "Cúil Rathain"
-		irish_gaelic = "Cúil Rathain"
-	}
+	#b_coleraine = {
+	#	irish = "Cúil Rathain"
+	#	irish_gaelic = "Cúil Rathain"
+	#}
 	b_derry = {
 		irish = "Daire Coluimb Chille"
 		irish_gaelic = "Daire Coluimb Chille"
+	}
+	b_tullyhogue = {
+		irish = "Tulaigh Óg"
+		irish_gaelic = "Tulaigh Óg"
 	}
 }
 

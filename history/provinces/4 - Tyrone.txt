@@ -7,13 +7,13 @@ title = c_tireoghain
 # Settlements
 max_settlements = 4
 b_aileach = tribal
-b_coleraine = tribal
+#b_coleraine = tribal
 b_derry = temple
 
 #b_dungannon = castle
 #b_omagh = castle
 #b_maghera = castle
-#b_tullyhogue = castle
+b_tullyhogue = temple #castle
 #b_dungiven = castle
 
 # Misc
@@ -27,6 +27,13 @@ terrain = hills
 	#title = c_tyrone
 	title = c_tireoghain
 }
+
+# en titles
+#754.1.1=
+#{
+#	holder=83595
+#}
+
 #1000.1.1 = {
 #	b_aileach = castle
 #	b_coleraine = city

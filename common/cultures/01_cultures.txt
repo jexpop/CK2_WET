@@ -1,5 +1,6 @@
 insular_celtic = {
-	graphical_cultures = { celticgfx }
+	#graphical_cultures = { celticgfx }
+	graphical_cultures = { gaelicgfx }
 
 	irish_gaelic = {
 		graphical_cultures = { gaelicgfx }

@@ -9,6 +9,8 @@ celtic_group = {
 	interface_skin = { pagan_interface }
 
     eire_gaelic = {
+        graphical_culture = gaelicgfx
+        
         icon = 52
         heresy_icon = 53
         color = { 0.4 0.7 0.3 }	

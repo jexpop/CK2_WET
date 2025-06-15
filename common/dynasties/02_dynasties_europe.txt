@@ -14,7 +14,7 @@
 			color = 6
 			color = 4
 		}
-		religion="eire_gaelic"
+		religion=eire_gaelic
 	}
 }
 3000001 = {
@@ -32,7 +32,7 @@
 			color = 2
 			color = 1
 		}
-		religion="eire_gaelic"
+		religion=eire_gaelic
 	}
 }
 3000002 = {
@@ -50,7 +50,7 @@
 			color = 12
 			color = 9
 		}
-		religion="eire_gaelic"
+		religion=eire_gaelic
 	}
 }
 3000003 = {
@@ -68,6 +68,6 @@
 			color = 0
 			color = 13
 		}
-		religion="eire_gaelic"
+		religion=eire_gaelic
 	}
 }

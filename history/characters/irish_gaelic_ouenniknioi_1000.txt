@@ -1,0 +1,141 @@
+# 1ª generación
+1000005 = { # Padre de Róen/Cathal/Conn
+	name = "Brandub"
+	dynasty = 3000000 
+	religion = eire_gaelic
+	culture = irish_gaelic
+
+	9195.1.1 = { birth = yes } # 806.1.1 BC
+	9215.1.1 = { add_spouse = 1000004 } # 786.1.1 BC
+	9255.1.1 = { death = yes } # 746.1.1 BC
+}
+1000004 = { # Madre de Róen/Cathal/Conn
+	name = "Máiréad"
+	dynasty = 3000001
+	religion = eire_gaelic
+	culture = irish_gaelic
+
+	female = yes
+	
+	9200.1.1 = { birth = yes } # 801.1.1 BC
+	9215.1.1 = { add_spouse = 1000005 } # 786.1.1 BC
+	9260.1.1 = { death = yes } # 741.1.1 BC
+}
+# 2ª generación
+1000000 = { 
+	name = "Róen"
+	dynasty = 3000000
+	religion = eire_gaelic
+	culture = irish_gaelic
+
+	father = 1000005
+	mother = 1000004
+
+	9228.1.1 = { birth = yes } # 773.1.1 BC
+	9245.1.1 = { add_spouse = 1000002 } # 756.1.1 BC
+	9272.1.1 = { death = yes } # 729.1.1 BC
+}
+1000002 = { # Esposa de Róen
+	name = "Étaín"
+	dynasty = 3000002
+	religion = eire_gaelic
+	culture = irish_gaelic
+
+	female = yes
+
+	9230.1.1 = { birth = yes } # 771.1.1 BC
+	9245.1.1 = { add_spouse = 1000000 } # 756.1.1 BC
+	9290.1.1 = { death = yes } # 711.1.1 BC
+}
+1000001 = { 
+	name = "Cathal" # Hermano de Róen
+	dynasty = 3000000
+	religion = eire_gaelic
+	culture = irish_gaelic
+
+	father = 1000005
+	mother = 1000004
+
+	9230.1.1 = { birth = yes } # 771.1.1 BC
+	9247.1.1 = { add_spouse = 1000007 } # 754.1.1 BC
+	9280.1.1 = { death = yes } # 721.1.1 BC
+}
+1000007 = { # Esposa de Cathal
+	name = "Fíne"
+	dynasty = 3000003
+	religion = eire_gaelic
+	culture = irish_gaelic
+
+	female = yes
+
+	9232.1.1 = { birth = yes } # 769.1.1 BC
+	9247.1.1 = { add_spouse = 1000001 } # 754.1.1 BC
+	9301.1.1 = { death = yes } # 700.1.1 BC
+}
+1000009 = { 
+	name = "Conn" # Hermano de Róen
+	dynasty = 3000000
+	religion = eire_gaelic
+	culture = irish_gaelic
+
+	father = 1000005
+	mother = 1000004
+
+	9229.3.4 = { birth = yes } # 772.3.4 BC
+	9290.12.1 = { death = yes } # 711.12.1 BC
+}
+# 3ª generación
+1000003 = { # Hijo de Róen
+	name = "Lugaid"
+	dynasty = 3000000
+	religion = eire_gaelic
+	culture = irish_gaelic
+
+	father = 1000000
+	mother = 1000002
+
+	9250.1.1 = { birth = yes } # 751.1.1 BC
+	9303.3.7 = { death = yes } # 698.3.7 BC
+}
+1000006 = { # Hija de Róen
+	name = "Brigid"
+	dynasty = 3000000
+	religion = eire_gaelic
+	culture = irish_gaelic
+
+	female = yes
+
+	father = 1000000
+	mother = 1000002
+
+	9252.1.1 = { birth = yes } # 749.1.1 BC
+	9322.1.14 = { death = yes } # 679.1.14 BC
+}
+1000008 = { # Hija de Cathal/Fíne
+	name = "Fíne"
+	dynasty = 3000000
+	religion = eire_gaelic
+	culture = irish_gaelic
+
+	female = yes
+
+	father = 1000001
+	mother = 1000007
+
+	9248.1.1 = { birth = yes } # 753.1.1 BC
+	9308.2.1 = { death = yes } # 693.2.1 BC
+}
+
+#1000010 = { 
+#	name = ""
+#	dynasty = 
+#	religion = 
+#	culture = 
+#
+#	female = yes
+#
+#	father = 
+#	mother = 
+#
+#	xxxx.xx.xx = { birth = yes } # xxxx.xx.xx
+#	xxxx.xx.xx = { death = yes } # xxxx.xx.xx
