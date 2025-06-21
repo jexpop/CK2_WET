@@ -1,3 +1,6 @@
+#####################################################
+### 		Ouenniknioi							  ###
+#####################################################
 # 1ª generación
 1000005 = { # Padre de Róen/Cathal/Conn
 	name = "Brandub"
@@ -14,6 +17,8 @@
 	dynasty = 3000001
 	religion = eire_gaelic
 	culture = irish_gaelic
+
+	father = 1000010
 
 	female = yes
 	
@@ -85,7 +90,7 @@
 	9290.12.1 = { death = yes } # 711.12.1 BC
 }
 # 3ª generación
-1000003 = { # Hijo de Róen
+1000003 = { # Hijo de Róen/Étaín
 	name = "Lugaid"
 	dynasty = 3000000
 	religion = eire_gaelic
@@ -97,7 +102,7 @@
 	9250.1.1 = { birth = yes } # 751.1.1 BC
 	9303.3.7 = { death = yes } # 698.3.7 BC
 }
-1000006 = { # Hija de Róen
+1000006 = { # Hija de Róen/Étaín
 	name = "Brigid"
 	dynasty = 3000000
 	religion = eire_gaelic
@@ -126,16 +131,82 @@
 	9308.2.1 = { death = yes } # 693.2.1 BC
 }
 
-#1000010 = { 
-#	name = ""
-#	dynasty = 
-#	religion = 
-#	culture = 
-#
-#	female = yes
-#
-#	father = 
-#	mother = 
-#
-#	xxxx.xx.xx = { birth = yes } # xxxx.xx.xx
-#	xxxx.xx.xx = { death = yes } # xxxx.xx.xx
+#####################################################
+### 		Cruthin 							  ###
+#####################################################
+# 1ª generación
+1000010 = { 
+	name = "Domnall"
+	dynasty = 3000001
+	religion = eire_gaelic
+	culture = irish_gaelic
+
+	9204.1.1 = { birth = yes } # 797.1.1 BC
+	9254.1.1 = { death = yes } # 747.1.1 BC
+}
+# 2ª generación
+1000011 = { 
+	name = "Domnall"
+	dynasty = 3000001
+	religion = eire_gaelic
+	culture = irish_gaelic
+
+	father = 1000010
+
+	9211.1.1 = { birth = yes } # 790.1.1 BC
+	9241.1.1 = { add_spouse = 1000014 } # 760.1.1 BC
+	9257.1.1 = { death = yes } # 744.1.1 BC
+}
+1000012 = { 
+	name = "Róis"
+	dynasty = 3000001
+	religion = eire_gaelic
+	culture = irish_gaelic
+
+	female = yes
+
+	father = 1000010
+
+	9236.1.1 = { birth = yes } # 765.1.1 BC
+	9306.1.1 = { death = yes } # 695.1.1 BC
+}
+1000013 = { 
+	name = "Caitilín"
+	dynasty = 3000001
+	religion = eire_gaelic
+	culture = irish_gaelic
+
+	female = yes
+
+	father = 1000010
+
+	9241.1.1 = { birth = yes } # 760.1.1 BC
+	9291.1.1 = { death = yes } # 710.1.1 BC
+}
+1000014 = { # Esposa de Domnall
+	name = "Ailbhe"
+	dynasty = 3000002
+	religion = eire_gaelic
+	culture = irish_gaelic
+
+	female = yes
+
+	9228.8.1 = { birth = yes } # 773.8.1 BC
+	9241.1.1 = { add_spouse = 1000011 } # 760.1.1 BC
+	9301.1.1 = { death = yes } # 700.1.1 BC
+}
+# 3ª generación
+1000015 = { # Hijo de Domnall
+	name = "Artgal"
+	dynasty = 3000001
+	religion = eire_gaelic
+	culture = irish_gaelic
+
+	father = 1000011
+	mother = 1000014
+
+	9241.1.1 = { birth = yes } # 760.1.1 BC
+	9302.1.1 = { death = yes } # 699.1.1 BC
+}
+
+#1000016

@@ -1,12 +1,10 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-C_AIRGIALLA_TITLE;Airgíalla;Airgíalla;Airgíalla;;Airgíalla;;;;;;;;;x
-C_RATHRUIN_TITLE;Ráth Rúin;Ráth Rúin;Ráth Rúin;;Ráth Rúin;;;;;;;;;x
+d_cruthin;Cruthin;Cruthin;Cruthin;;Cruthin;;;;;;;;;x 
 d_ouenniknioi;Ouenniknioi;Ouenniknioi;Ouenniknioi;;Ouenniknioi;;;;;;;;;x
-D_PRITERI_TITLE;Cóiced Ol Priteri;Cóiced Ol Priteri;Cóiced Ol Priteri;;test Cóiced Ol Priteri;;;;;;;;;x
 temple_baron_irish_gaelic;Druid;Druide;Druide;;Druida;;;;;;;;;x
 temple_baron_female_irish_gaelic;Druid;Druide;Druide;;Druida;;;;;;;;;x
-temple_barony_irish_gaelic;Sacred place;Lieu sacré;Heiliger Ort;;Lugar sagrado;;;;;;;;;x
-temple_barony_of_irish_gaelic;Sacred place of;Lieu sacré de;Heiliger Ort von;;Lugar sagrado de;;;;;;;;;x
+temple_barony_irish_gaelic;Dolmen;Dolmen;Dolmen;;Dolmen;;;;;;;;;x
+temple_barony_of_irish_gaelic;Dolmen of;Dolmen de;Dolmen von;;Dolmen de;;;;;;;;;x
 tribal_ig_count_female_irish_gaelic;Bantoísech;Bantoísech;Bantoísech;;Bantoísech;;;;;;;;;x
 tribal_ig_count_irish_gaelic;Toísech;Toísech;Toísech;;Toísech;;;;;;;;;x
 tribal_ig_county_of_irish_gaelic;Túath Ol;Túath Ol;Túath Ol;;Túath Ol;;;;;;;;;x

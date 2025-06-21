@@ -18,7 +18,7 @@
 	}
 }
 3000001 = {
-	name = "O'Ceallaigh"
+	name = "Dál Fiatach" #"O'Ceallaigh"
 	culture = irish_gaelic
 	religion = eire_gaelic
 

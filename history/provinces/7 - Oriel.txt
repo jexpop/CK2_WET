@@ -5,14 +5,14 @@
 title = c_airgialla
 
 # Settlements
-max_settlements = 3
-b_clones = tribal # temple siglo VI ?
+max_settlements = 4
+b_olouth = tribal # castle ?
+#b_clones = tribal # temple siglo VI ?
 #b_dundalk = city
 b_armagh = temple
 b_clogher = temple
 #b_drogheda = castle
 #b_monaghan = castle
-b_olouth = tribal # castle ?
 #b_ardee = castle
 
 # Misc
@@ -23,6 +23,12 @@ religion = eire_gaelic
 9248.4.21 = { # 753.4.21 BC
 	title = c_airgialla
 }
+
+# en titles
+#696.1.1={
+#	holder = 7271 #Fergal son of Máel Duin
+#}
+
 #1000.1.1 = {
 #	b_clones = castle
 #	b_dundalk = city

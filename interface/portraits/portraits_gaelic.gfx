@@ -11,19 +11,20 @@ spriteTypes = {
 		can_be_lowres = yes
 	}
 	spriteType = {
-		name = "PORTRAIT_celticgfx_child_male"
+		name = "PORTRAIT_gaelicgfx_child_male"
 		texturefile = "gfx\\characters\\default_son_celtic.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
 	
 	spriteType = {
-		name = "PORTRAIT_celticgfx_child_female"
+		name = "PORTRAIT_gaelicgfx_child_female"
 		texturefile = "gfx\\characters\\default_daughter_celtic.tga"
 		noOfFrames = 1
 		norefcount = yes
 	}
-	
+
+
 	### celtic MALE ####
 	
 	spriteType = {
@@ -347,7 +348,7 @@ spriteTypes = {
 			"GFX_celtic_male_hair_behind:p1:h:y"
 			"GFX_celtic_male_beard_behind:p4:h:y"
 			":p5:c6"
-			"GFX_celtic_male_base:p2"
+			"GFX_celtic_male_base:p2"		
 			"GFX_celtic_male_neck:d0"
 			"GFX_celtic_male_chin:d1"
 			"GFX_character_celtic_male_physique:p21" 
@@ -372,7 +373,7 @@ spriteTypes = {
 			"GFX_gaelic_male_clothes:p3:c2"
 			"GFX_gaelic_male_headgear_mid:p5:c3"
 			"GFX_celtic_male_ear:d7"			
-			"GFX_celtic_male_beard:p4:h:y"
+			"GFX_celtic_male_beard:p4:h:y"			
 			"GFX_frankish_male_overlayer_mid:p31"
 			"GFX_character_eyepatch:p13:y:o32x63"
 		   	"GFX_celtic_male_hair:p1:h:y"
@@ -412,7 +413,7 @@ spriteTypes = {
 		
 		headgear_that_hides_hair = { 10 }
 	}
-	
+
 	# middle age
 	portraitType = {
 		name = "PORTRAIT_gaelicgfx_male1"

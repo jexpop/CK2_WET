@@ -1,0 +1,21 @@
+character_event = {
+    id = wetmod.1001
+    title = "Muerte forzada de Domnall"
+    desc = "Domnall ha muerto debido a causas naturales."
+    picture = GFX_evt_death
+
+    mean_time_to_happen = {
+        months = 1
+    }
+    trigger = {
+        character = 1000011
+        date = 9257.1.1 # 744.1.1 BC
+        is_alive = yes
+    }
+    immediate = {
+        death = yes
+    }
+    option = {
+        name = "Aceptar"
+    }
+}

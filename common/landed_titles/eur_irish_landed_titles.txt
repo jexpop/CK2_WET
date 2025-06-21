@@ -10,26 +10,26 @@ d_ouenniknioi = {
 
 	roman = "Vennicnii"
 }
-d_priteni = {
+d_cruthin  = {
 	color = { 62 138 80 }      
 	color2 = { 75 48 28 }
 
 	culture = irish_gaelic
 
 	capital = 5 # Ulster
-	title = "D_PRITERI_TITLE"
 	#foa = "A Shoilse"
+
+	roman = "Priteni"
 }
 # Tribes provinces
 c_airgialla= {
 	color = { 72 145 70 }
 	color2 = { 120 90 60 }
-	title = "C_AIRGIALLA_TITLE"
 
-	b_clones = {
-		irish = "Cluain Eois"
-		irish_gaelic = "Cluain Eois"
-	}
+	#b_clones = {
+	#	irish = "Cluain Eois"
+	#	irish_gaelic = "Cluain Eois"
+	#}
 	b_armagh = {
 		irish = "Ard Mhacha"
 		irish_gaelic = "Ard Mhacha"
@@ -47,16 +47,7 @@ c_airgialla= {
 c_rathruin= {
 	color = { 72 145 70 }
 	color2 = { 120 90 60 }
-	title = "C_RATHRUIN_TITLE"
-
-	b_dromore = {
-		irish = "Druim Mór"
-		irish_gaelic = "Druim Mór na nDéithe"
-	}		
-	b_dunseverick = {
-		irish = "Dún Sobhairce"
-		irish_gaelic = "Dún Sobhairce"
-	}
+	
 	b_downpatrick = {
 		norwegian = Strangfjord
 		swedish = Strangfjord
@@ -65,14 +56,22 @@ c_rathruin= {
 		irish = "Dún Pádraig"
 		irish_gaelic = "Ráth Celtchair"
 	}
-	b_larne = {
-		irish = "Latharna"
-		irish_gaelic = "Latharna"
-	}
-	b_dunluce = {
-		irish = "Dún Libhse"
-		irish_gaelic = "Dún Libhse"
-	}
+	b_dromore = {
+		irish = "Druim Mór"
+		irish_gaelic = "Druim Mór na nDéithe"
+	}		
+	#b_dunseverick = { 
+	#	irish = "Dún Sobhairce"
+	#	irish_gaelic = "Dún Sobhairce"
+	#}
+	#b_larne = {
+	#	irish = "Latharna"
+	#	irish_gaelic = "Latharna"
+	#}
+	#b_dunluce = {
+	#	irish = "Dún Libhse"
+	#	irish_gaelic = "Dún Libhse"
+	#}
 }
 c_tirchonaill= {
 	color = { 66 138 62 }
